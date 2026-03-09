@@ -1,0 +1,17 @@
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-core==0.3.83
+langchain-google-genai==2.1.12
+langchain-huggingface==0.3.1
+langchain-chroma==0.2.6
+langchain-text-splitters==0.3.11
+langgraph==0.6.11
+chromadb==1.5.2
+sentence-transformers==5.1.2
+pypdf==6.7.5
+tenacity==9.1.2
+streamlit==1.50.0
+python-dotenv==1.2.1
+pydantic==2.12.5
+pydantic-settings==2.11.0
+google-api-core==2.30.0
